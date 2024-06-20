@@ -20,3 +20,8 @@ Solving problems is a helpful way to become a better programmer. Algorithms shar
 
 - **Explanation:** Each problem, except for the most basic ones, will be accompanied by an explanation of the problem statement and my thought process behind the solution.
 
+### For finding problems I'm going to use 2 websites:
+
+- **LeetCode:** A popular platform for practicing coding challenges.
+- **Beecrowd:** Another well-known platform for coding challenges. For the most basic ones
+
