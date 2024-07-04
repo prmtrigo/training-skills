@@ -1,0 +1,6 @@
+n = int(input())
+x = list(map(int, input().split()))
+menor_valor = min(x)
+posicao = x.index(menor_valor)
+print("Menor valor: {}".format(menor_valor))
+print("Posicao: {}".format(posicao))
